@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccoliteTest</string>
+    <string name="search_for_state_or_location">Search For State or Location</string>
+</resources>
