@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "737101174908",
+    "firebase_url": "https://accolite-test-e2e6d.firebaseio.com",
+    "project_id": "accolite-test-e2e6d",
+    "storage_bucket": "accolite-test-e2e6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737101174908:android:399b8e7dcc074d74",
+        "android_client_info": {
+          "package_name": "com.gaurav.accolitetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737101174908-8dja1kmvnjle7sp8ghi6l4frc2f0t5p9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaurav.accolitetest",
+            "certificate_hash": "CA5A821E9FC72DC14FA2257231EFF868A40A19C4"
+          }
+        },
+        {
+          "client_id": "737101174908-3tl1t4mchf3vqs6d06nssjljabudajqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXlfyqUBESY9QZ0kxgfcGsy8x6WltKKxE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737101174908-3tl1t4mchf3vqs6d06nssjljabudajqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

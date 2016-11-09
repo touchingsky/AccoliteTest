@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">AccoliteTest</string>
     <string name="search_for_state_or_location">Search For State or Location</string>
+    <string name="error_invalid_ip_address">Invalid IP Address</string>
+    <string name="valid_input_chars">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ. </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="please_wait">Please Wait</string>
 </resources>
