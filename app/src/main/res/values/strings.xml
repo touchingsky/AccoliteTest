@@ -5,4 +5,8 @@
     <string name="valid_input_chars">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ. </string>
     <string name="title_activity_maps">Map</string>
     <string name="please_wait">Please Wait</string>
+    <string name="error_no_matching_state_found">No matching state found</string>
+    <string name="state_name">%1$s (%2$s)</string>
+    <string name="capital">Capital</string>
+    <string name="area">Area</string>
 </resources>
